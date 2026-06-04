@@ -1,18 +1,15 @@
-# Sistema de Assinatura de Streaming
 
-Projeto desenvolvido em Java utilizando o padrão de projeto Decorator.
-
-## Funcionalidades
+Funcionalidades
 
 - Assinatura base do streaming
 - Adição de pacotes opcionais
 - Cálculo automático do valor total
 - Impedimento de pacotes duplicados
 
-## Como executar
+ Como executar
 
-### Compilar
+ Compilar
 javac src/*.java
 
-### Executar
+Executar
 java -cp src Main
